@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="renderer" content="webkit|ie-comp|ie-stand" /> -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>甲由科技-小程序</title>
+    <link rel="canonical" href="www.gz-jiayou.com">
+    <link rel="stylesheet" href="./css/applet/applet.css">
+
+    <script src="./config/head_modules.js"></script>
+    <script language="javascript" src="https://dut.zoosnet.net/JS/LsJS.aspx?siteid=DUT85908063&float=1&lng=cn"></script>
+</head>
+
+<body>
+    <div class="website_landing_main_div">
+        <div class="website_landing_head_div">
+            <img class="website_landing_head_img" src="./img/applet/head.png" alt="">
+        </div>
+        <div class="website_landing_title">专业小程序开发，您可以解决这些难题</div>
+        <div class="website_landing_subtitle">You can solve these problems</div>
+        <div class="website_landing_set_website_div">
+            <img class="website_landing_set_website_img" src="./img/app/set_website.png" alt="">
+            <div class="website_landing_set_website_right_div">
+                <div class="website_landing_set_website_right_title">
+                    1.用完即走，触手可及
+                </div>
+                <div class="website_landing_set_website_right_title">
+                    2.分享红利，功能丰富
+                </div>
+                <div class="website_landing_set_website_right_title">
+                    3.线上线下打通，开放的用户体系
+                </div>
+                <a class="website_landing_set_website_right_btn"
+                    href="https://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=baidu"
+                    target="_blank">免费邀约技术上门洽谈</a>
+            </div>
+        </div>
+        <div class="website_landing_title">甲由科技小程序 服务领域</div>
+        <div class="website_landing_subtitle">小小程序，大有所为</div>
+        <div class="website_landing_system_main_div">
+            <div class="website_landing_system_div">
+                <div class="website_landing_system_img_div">
+                    <img class="website_landing_system_img" src="./img/applet/system01.png" alt="">
+                    <div class="website_landing_system_title">成本低</div>
+                </div>
+                <div class="website_landing_system_content">微信小程序的价格区间在万元以内远远低于同等条件下的APP开发</div>
+            </div>
+            <div class="website_landing_system_div">
+                <div class="website_landing_system_img_div">
+                    <img class="website_landing_system_img" src="./img/applet/system02.png" alt="">
+                    <div class="website_landing_system_title">回报高</div>
+                </div>
+                <div class="website_landing_system_content">8亿用户微信生态，互联网新蓝海，早期小程序将享受高达百万PV流量红利</div>
+            </div>
+            <div class="website_landing_system_div">
+                <div class="website_landing_system_img_div">
+                    <img class="website_landing_system_img" src="./img/applet/system03.png" alt="">
+                    <div class="website_landing_system_title">开发快</div>
+                </div>
+                <div class="website_landing_system_content">跨平台，无需进行多端开发；周期短，有效节约开发成本
+                </div>
+            </div>
+            <div class="website_landing_system_div">
+                <div class="website_landing_system_img_div">
+                    <img class="website_landing_system_img" src="./img/applet/system04.png" alt="">
+                    <div class="website_landing_system_title">推广易</div>
+                </div>
+                <div class="website_landing_system_content">微信分发平台担保，应用可信度高；基于社群应用分享，引发用户自推广</div>
+            </div>
+        </div>
+        <div class="wbsite_landing_input_div">
+            <div class="wbsite_landing_input">量身定制,多功能一站开发
+                <a class="wbsite_landing_input_btn"
+                    href="https://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=baidu" target="_blank">
+                    立即咨询
+                </a>
+            </div>
+        </div>
+        <div class="website_landing_title">甲由科技小程序开发优势</div>
+        <div class="website_landing_subtitle">小程序大有可为</div>
+        <div class="app_landing_advantage_div">
+            <div class="app_landing_advantage">
+                <img src="./img/applet/advantage01.png" alt="">
+            </div>
+            <div class="app_landing_advantage">
+                <img src="./img/applet/advantage02.png" alt="">
+            </div>
+            <div class="app_landing_advantage">
+                <img src="./img/applet/advantage03.png" alt="">
+            </div>
+            <div class="app_landing_advantage">
+                <img src="./img/applet/advantage04.png" alt="">
+            </div>
+        </div>
+        <div class="website_landing_title">甲由科技小程序服务流程</div>
+        <div class="website_landing_subtitle">小小程序，“微”力无穷</div>
+        <div class="website_landing_flow_div">
+            <img class="website_landing_flow_img" src="./img/website/flow.png" alt="">
+        </div>
+        <div class="wbsite_landing_input_div">
+            <div class="wbsite_landing_input">包满意设计,专业评估开发
+                <a class="wbsite_landing_input_btn"
+                    href="https://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=baidu" target="_blank">
+                    立即咨询
+                </a>
+            </div>
+        </div>
+        <div class="website_landing_form_main_div">
+            <div class="website_landing_form_title">6大分公司 5000+精英为您便捷服务</div>
+            <div class="website_landing_form_title">想要赚钱，赶快留言</div>
+            <div class="website_landing_form_div">
+                <!-- <form> -->
+                <input class="website_landing_form_input website_landing_form_half" type="text" placeholder="请输入联系人姓名"
+                    onchange="changeName(value)" />
+                <input class="website_landing_form_input website_landing_form_half" type="text" placeholder="请输入联系电话"
+                    onchange="changePhone(value)" />
+                <textarea class="website_landing_form_input website_landing_form_all" rows="4" placeholder="请输入您的开发需求"
+                    onchange="changeArea(value)"></textarea>
+                <button type="button" class="btn btn-default website_landing_form_submit"
+                    onclick="handerClick()">立即提交</button>
+                <!-- </form> -->
+            </div>
+        </div>
+    </div>
+    <script src="./config/body_modules.js"></script>
+    <script src="./js/index.js"></script>
+</body>
+
+</html>

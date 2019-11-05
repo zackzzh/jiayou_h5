@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="renderer" content="webkit|ie-comp|ie-stand" /> -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>甲由科技-APP-落地页</title>
+    <link rel="canonical" href="www.gz-jiayou.com">
+    <link rel="stylesheet" href="./css/software/index.css">
+
+    <script src="./config/head_modules.js"></script>
+</head>
+
+<body>
+    <div class="website_landing_main_div">
+        <div class="website_landing_head_div">
+            <img class="website_landing_head_img" src="./img/software/banner.png" alt="">
+        </div>
+        <div class="website_landing_title">专业公众号开发，您可以解决这些难题</div>
+        <div class="website_landing_subtitle">You can solve these problems</div>
+        <div class="website_landing_set_website_div">
+            <img class="website_landing_set_website_img" src="./img/software/program.png" alt="">
+            <div class="website_landing_set_website_right_div">
+                <div class="website_landing_set_website_right_title">
+                    1.完全按照你的要求和想法来制作，精准实现你想要的目的；
+                </div>
+                <div class="website_landing_set_website_right_title">
+                    2.避免多余的功能，量身定制更省费用；
+                </div>
+                <div class="website_landing_set_website_right_title">
+                    3. 终身版权所有
+                </div>
+                <a class="website_landing_set_website_right_btn"
+                    href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&r=YD"
+                    target="_blank">免费获取软件开发方案</a>
+            </div>
+        </div>
+        <div class="website_landing_title">甲由科技 软件开发</div>
+        <div class="website_landing_subtitle">涵盖所有行业软件开发，100%完美交付率</div>
+        <div class="software_main_div">
+            <img class="software_img" src="./img/software/software01.png" alt="">
+        </div>
+        <!-- <div class="wbsite_landing_input_div">
+            <div class="wbsite_landing_input">量身定制,多功能一站开发
+                <a class="wbsite_landing_input_btn"
+                    href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&r=YD" target="_blank">
+                    立即咨询
+                </a>
+            </div>
+        </div> -->
+        <div class="website_landing_title">甲由科技 软件开发案例</div>
+        <div class="website_landing_subtitle">涵盖所有行业软件开发，100%完美交付率</div>
+        <div class="software_items_div">
+            <div class="software_item_div">
+                <img class="software_item_img" src="./img/software/item01.png" alt="">
+            </div>
+            <div class="software_item_div">
+                <img class="software_item_img" src="./img/software/item02.png" alt="">
+            </div>
+            <div class="software_item_div">
+                <img class="software_item_img" src="./img/software/item03.png" alt="">
+            </div>
+            <div class="software_item_div">
+                <img class="software_item_img" src="./img/software/item04.png" alt="">
+            </div>
+        </div>
+        <div class="wbsite_landing_input_div">
+            <div class="wbsite_landing_input">量身定制,多功能软件开发
+                <a class="wbsite_landing_input_btn"
+                    href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&r=YD" target="_blank">
+                    立即咨询
+                </a>
+            </div>
+        </div>
+        <div class="website_landing_title">甲由科技软件开发服务流程</div>
+        <div class="website_landing_subtitle">涵盖所有行业软件开发，100%完美交付率</div>
+        <div class="website_landing_flow_div">
+            <img class="website_landing_flow_img" src="./img/website/flow.png" alt="">
+        </div>
+        <div class="wbsite_landing_input_div">
+            <div class="wbsite_landing_input">全方位开发，2999元包满意
+                <a class="wbsite_landing_input_btn"
+                    href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&r=YD" target="_blank">
+                    立即咨询
+                </a>
+            </div>
+        </div>
+        <div class="website_landing_form_main_div">
+            <div class="website_landing_form_title">6大分公司 5000+精英为您便捷服务</div>
+            <div class="website_landing_form_title">想要赚钱，赶快留言</div>
+            <div class="website_landing_form_div">
+                <!-- <form> -->
+                <input class="website_landing_form_input website_landing_form_half" type="text" placeholder="请输入联系人姓名"
+                    onchange="changeName(value)" />
+                <input class="website_landing_form_input website_landing_form_half" type="text" placeholder="请输入联系电话"
+                    onchange="changePhone(value)" />
+                <textarea class="website_landing_form_input website_landing_form_all" rows="4" placeholder="请输入您的开发需求"
+                    onchange="changeArea(value)"></textarea>
+                <button type="button" class="btn btn-default website_landing_form_submit"
+                    onclick="handerClick()">立即提交</button>
+                <!-- </form> -->
+            </div>
+        </div>
+    </div>
+    <script src="./config/body_modules.js"></script>
+    <script src="./js/index.js"></script>
+</body>
+
+</html>

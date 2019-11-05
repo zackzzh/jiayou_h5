@@ -1,0 +1,9 @@
+.website {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.website img {
+  width: 100%;
+}

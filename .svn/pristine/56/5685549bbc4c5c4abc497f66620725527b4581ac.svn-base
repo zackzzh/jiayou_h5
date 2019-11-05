@@ -1,0 +1,12 @@
+.applet {
+    display         : flex;
+    flex-direction  : column;
+    justify-content : center;
+    align-items     : center;
+    background-image: url('../../img/applet/applet1.png');
+    background-size : 100% 100%;
+
+    img {
+        width: 100%;
+    }
+}

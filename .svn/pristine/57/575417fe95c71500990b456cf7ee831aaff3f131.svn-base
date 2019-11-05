@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="renderer" content="webkit|ie-comp|ie-stand" /> -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>甲由科技-APP-落地页</title>
+    <link rel="canonical" href="www.gz-jiayou.com">
+    <link rel="stylesheet" href="./css/official/index.css">
+    <script src="./config/head_modules.js"></script>
+    <script language="javascript" src="https://dut.zoosnet.net/JS/LsJS.aspx?siteid=DUT85908063&float=1&lng=cn"></script>
+</head>
+
+<body>
+    <div class="website_landing_main_div">
+        <div class="website_landing_head_div">
+            <img class="website_landing_head_img" src="./img/official/head.png" alt="">
+        </div>
+        <div class="website_landing_title">专业公众号开发，您可以解决这些难题</div>
+        <div class="website_landing_subtitle">You can solve these problems</div>
+        <div class="website_landing_set_website_div">
+            <img class="website_landing_set_website_img" src="./img/app/set_website.png" alt="">
+            <div class="website_landing_set_website_right_div">
+                <div class="website_landing_set_website_right_title">
+                    1. 提供最优质的用户界面，最华丽的交互；
+                </div>
+                <div class="website_landing_set_website_right_title">
+                    2. 针对不同平台提供不同体验；
+                </div>
+                <div class="website_landing_set_website_right_title">
+                    3. 能够与移动硬件设备的底层功能，可访问本地资源；
+                </div>
+                <a class="website_landing_set_website_right_btn"
+                    href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&r=YD"
+                    target="_blank">免费获取公众号方案</a>
+            </div>
+        </div>
+        <div class="website_landing_title">甲由科技公众号开发 服务领域</div>
+        <div class="website_landing_subtitle">涵盖所有行业微信公众号，100%完美交付率</div>
+        <div class="official_main_div">
+            <div class="official_item_div">
+                <div class="official_item">
+                    <img class="official_item_img" src="./img/official/item01.png" alt="">
+                    <div class="official_item_title">营销型公众号</div>
+                    <div class="official_item_subtitle">微信小程序的价格区间在万元以内远远低于同等条件下的APP开发</div>
+                </div>
+            </div>
+            <div class="official_item_div">
+                <div class="official_item">
+                    <img class="official_item_img" src="./img/official/item02.png" alt="">
+                    <div class="official_item_title">企业门户型公众号</div>
+                    <div class="official_item_subtitle">微信小程序的价格区间在万元以内远远低于同等条件下的APP开发</div>
+                </div>
+            </div>
+            <div class="official_item_div">
+                <div class="official_item">
+                    <img class="official_item_img" src="./img/official/item03.png" alt="">
+                    <div class="official_item_title">行业产品公众号</div>
+                    <div class="official_item_subtitle">微信小程序的价格区间在万元以内远远低于同等条件下的APP开发</div>
+                </div>
+            </div>
+            <div class="official_item_div">
+                <div class="official_item">
+                    <img class="official_item_img" src="./img/official/item04.png" alt="">
+                    <div class="official_item_title">品牌服务型公众号</div>
+                    <div class="official_item_subtitle">微信小程序的价格区间在万元以内远远低于同等条件下的APP开发</div>
+                </div>
+            </div>
+        </div>
+        <div class="wbsite_landing_input_div">
+            <div class="wbsite_landing_input">量身定制,多功能一站开发
+                <a class="wbsite_landing_input_btn"
+                    href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&r=YD" target="_blank">
+                    立即咨询
+                </a>
+            </div>
+        </div>
+        <div class="website_landing_title">甲由科技公众号开发优势</div>
+        <div class="website_landing_subtitle">涵盖所有行业公众号定制，100%完美交付率</div>
+        <div class="app_landing_advantage_div">
+            <div class="app_landing_advantage">
+                <img src="./img/app/advantage01.png" alt="">
+            </div>
+            <div class="app_landing_advantage">
+                <img src="./img/app/advantage02.png" alt="">
+            </div>
+            <div class="app_landing_advantage">
+                <img src="./img/app/advantage03.png" alt="">
+            </div>
+        </div>
+        <div class="website_landing_title">甲由科技公众号服务流程</div>
+        <div class="website_landing_subtitle">涵盖所有行业公众号定制，100%完美交付率</div>
+        <div class="website_landing_flow_div">
+            <img class="website_landing_flow_img" src="./img/website/flow.png" alt="">
+        </div>
+        <div class="wbsite_landing_input_div">
+            <div class="wbsite_landing_input">上门洽谈，免费获取方案
+                <a class="wbsite_landing_input_btn"
+                    href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&r=YD" target="_blank">
+                    立即咨询
+                </a>
+            </div>
+        </div>
+        <div class="website_landing_form_main_div">
+            <div class="website_landing_form_title">6大分公司 5000+精英为您便捷服务</div>
+            <div class="website_landing_form_title">想要赚钱，赶快留言</div>
+            <div class="website_landing_form_div">
+                <!-- <form> -->
+                <input class="website_landing_form_input website_landing_form_half" type="text" placeholder="请输入联系人姓名"
+                    onchange="changeName(value)" />
+                <input class="website_landing_form_input website_landing_form_half" type="text" placeholder="请输入联系电话"
+                    onchange="changePhone(value)" />
+                <textarea class="website_landing_form_input website_landing_form_all" rows="4" placeholder="请输入您的开发需求"
+                    onchange="changeArea(value)"></textarea>
+                <button type="button" class="btn btn-default website_landing_form_submit"
+                    onclick="handerClick()">立即提交</button>
+                <!-- </form> -->
+            </div>
+        </div>
+    </div>
+    <script src="./config/body_modules.js"></script>
+    <script src="./js/index.js"></script>
+</body>
+
+</html>

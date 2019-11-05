@@ -1,0 +1,311 @@
+.website_landing_main_div {
+    width: 100%;
+    text-align: center;
+
+    .website_landing_head_div {
+        width: 100%;
+
+        .website_landing_head_img {
+            width: 100%;
+        }
+    }
+
+    .website_landing_title {
+        margin: .533333rem 0 .08rem 0;
+        font-family: SourceHanSansCN-Medium;
+        font-size: .373333rem;
+        font-weight: 600;
+        color: #333333;
+        letter-spacing: .026667rem;
+    }
+
+    .website_landing_subtitle {
+        margin: 0 0 .4rem 0;
+        font-family: SourceHanSansCN-Medium;
+        font-size: .24rem;
+        font-weight: 600;
+        color: #333333;
+    }
+
+
+    .wbsite_landing_input_div {
+        display: inline-block;
+        margin: .4rem .266667rem 0 .266667rem;
+        padding: 0 0 0 .213333rem;
+        border: 1px solid rgba(5, 1, 1, 0.2);
+        background: #FFFFFF;
+        box-shadow: 0 .026667rem .173333rem 0 rgba(5, 1, 1, 0.25);
+        border-radius: .133333rem;
+        text-align: center;
+
+        .wbsite_landing_input_btn {
+            display: inline-block;
+            cursor: pointer;
+            text-decoration: none;
+            padding: .213333rem .133333rem;
+            font-size: .4rem;
+            font-weight: 500;
+            color: #000000;
+            background: #5997EE;
+            border-radius: .133333rem;
+        }
+
+        .wbsite_landing_input {
+            // width: 4.266667rem;
+            border: none;
+            outline: none;
+            font-size: .373333rem;
+            font-weight: 500;
+            letter-spacing: 1px;
+            color: #4C63AC;
+            opacity: 0.8;
+        }
+
+        // // 、Chrome、Safari 、Opera浏览器
+        // .wbsite_landing_input::-webkit-input-placeholder {
+        //     color: #4C63AC
+        // }
+
+        // // 2、火狐浏览器
+        // .wbsite_landing_input::-moz-placeholder {
+        //     color: #4C63AC
+        // }
+
+        // // 3、IE浏览器
+        // .wbsite_landing_input:-ms-input-placeholder {
+        //     color: #4C63AC
+        // }
+    }
+
+    .website_landing_set_website_div {
+        width: 100%;
+        padding: 0 .133333rem;
+        text-align: left;
+        vertical-align: middle;
+
+        .website_landing_set_website_img {
+            width: 51%;
+        }
+
+        .website_landing_set_website_right_div {
+            width: 47%;
+            display: inline-block;
+            // margin-left: .4rem;
+            vertical-align: middle;
+
+            .website_landing_set_website_right_title {
+                margin: .133333rem 0;
+                font-family: SourceHanSansCN-Medium;
+                font-size: .24rem;
+                font-weight: 500;
+                color: #000000;
+                opacity: 0.6;
+            }
+
+            .website_landing_set_website_right_btn {
+                cursor: pointer;
+                text-decoration: none;
+                display: inline-block;
+                margin-top: .266667rem;
+                padding: .186667rem .533333rem;
+                border-radius: .4rem;
+                text-align: center;
+                background: #5A96ED;
+                box-shadow: 0px 4px 13px 0px rgba(0, 96, 255, 0.65);
+                font-family: SourceHanSansCN-Medium;
+                font-size: .266667rem;
+                font-weight: 600;
+                color: #FFFFFF;
+                letter-spacing: .013333rem;
+            }
+        }
+    }
+
+    .official_main_div {
+        width: 100%;
+
+        .official_item_div {
+            display: inline-block;
+            width: 49%;
+            padding: .133333rem;
+
+            .official_item {
+                padding: .266667rem .533333rem .4rem .533333rem;
+                border-radius: .08rem;
+                box-shadow: 0 0 .213333rem 0 rgba(0, 37, 90, 0.65);
+                color: #ffffff;
+                letter-spacing: .026667rem;
+                font-family:Source Han Sans CN;
+                font-weight:500;
+
+                .official_item_img {
+                    width: 1.093333rem;
+                }
+
+                .official_item_title {
+                    margin: .24rem 0 .16rem 0;
+                    font-size: .4rem;
+                }
+
+                .official_item_subtitle {
+                    font-size: .266667rem;
+                }
+            }
+
+            &:first-child {
+                .official_item {
+                    background: #4D80F0;
+                }
+            }
+
+            &:nth-child(2) {
+                .official_item {
+                    background: #7B99EE;
+                }
+            }
+
+            &:nth-child(3) {
+                .official_item {
+                    background: #50D2B7;
+                }
+            }
+
+            &:last-child {
+                .official_item {
+                    background: #FDAD73;
+                }
+            }
+        }
+    }
+
+    .wbsite_landing_field {
+        position: relative;
+        width: 49%;
+        display: inline-block;
+        padding: .053333rem;
+        color: #ffffff;
+
+        .wbsite_landing_field_img {
+            width: 100%;
+            border-radius: .133333rem;
+        }
+
+        .wbsite_landing_field_title {
+            position: absolute;
+            bottom: .16rem;
+            left: 0;
+            right: 0;
+            // text-align: center;
+            margin: auto;
+            font-size: .48rem;
+            font-family: Adobe Heiti Std R;
+        }
+    }
+
+    .app_landing_advantage_div {
+        padding: 0 .133333rem;
+
+        .app_landing_advantage {
+            width: 100%;
+            margin: .133333rem 0;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+
+    .website_landing_flow_div {
+        width: 100%;
+        margin: .266667rem 0;
+        padding: 0 .8rem;
+        text-align: center;
+        vertical-align: middle;
+
+        .website_landing_flow_img {
+            width: 100%;
+        }
+    }
+
+    .website_landing_form_main_div {
+        margin-top: 20px;
+        background-image: url("../../img/website/form_bg.png");
+        background-position: center top;
+        background-size: 100% 100%;
+        text-align: center;
+        padding: .266667rem .4rem .4rem .4rem;
+
+        .website_landing_form_title {
+            font-family: SourceHanSansCN-Bold;
+            font-size: .293333rem;
+            font-weight: bold;
+            color: #FFFFFF;
+        }
+
+        .website_landing_form_div {
+            margin-top: .24rem;
+            text-align: center;
+            color: #ffffff;
+
+            .website_landing_form_input {
+                background: rgba(255, 255, 255, 0.23);
+                padding: .133333rem;
+                border: none;
+                outline: none;
+                font-size: .293333rem;
+                border: 1px solid #ffffff;
+                border-radius: .106667rem;
+            }
+
+            .website_landing_form_half {
+                width: 49.1%;
+            }
+
+            .website_landing_form_all {
+                margin-top: .133333rem;
+                width: 100%;
+            }
+
+            .website_landing_form_submit {
+                // cursor: pointer;
+                // text-decoration: none;
+                // display: block;
+                width: 100%;
+                margin-top: .133333rem;
+                margin-bottom: 50px;
+                padding: .133333rem 0;
+                font-family: SourceHanSansCN-Medium;
+                font-size: .373333rem;
+                font-weight: 500;
+                color: #ffffff;
+                background: #0093F9;
+                border-radius: .106667rem;
+                border: none;
+            }
+
+            // 1、Chrome、Safari 、Opera浏览器
+            .website_landing_form_input::-webkit-input-placeholder {
+                font-family: SourceHanSansCN-Regular;
+                font-weight: 400;
+                color: rgba(255, 255, 255, 1);
+                opacity: 0.7;
+            }
+
+            // 2、火狐浏览器
+            .website_landing_form_input::-moz-placeholder {
+                font-family: SourceHanSansCN-Regular;
+                font-weight: 400;
+                color: rgba(255, 255, 255, 1);
+                opacity: 0.7;
+            }
+
+            // 3、IE浏览器
+            .website_landing_form_input:-ms-input-placeholder {
+                font-family: SourceHanSansCN-Regular;
+                font-weight: 400;
+                color: rgba(255, 255, 255, 1);
+                opacity: 0.7;
+            }
+        }
+    }
+}

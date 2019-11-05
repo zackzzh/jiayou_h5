@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="renderer" content="webkit|ie-comp|ie-stand" /> -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>甲由科技-公众号</title>
+    <link rel="canonical" href="www.gz-jiayou.com">
+    <link rel="stylesheet" href="./css/official/index.css">
+    <script src="../config/head_modules.js"></script>
+    <script language="javascript" src="https://dut.zoosnet.net/JS/LsJS.aspx?siteid=DUT85908063&float=1&lng=cn"></script>
+</head>
+
+<body>
+    <div class="official">
+        <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+            <img src="./img/official/official1.png" alt="">
+        </a>
+        <div class="official_bg">
+            <div class="official_bg_list">
+                <img src="./img/official/official2.png" alt="" style="margin: .4rem 0;">
+                <img src="./img/official/official3.png" alt="" style="width:8.306667rem ;">
+                <img src="./img/official/official4.png" alt=""
+                    style="width:7.64rem ; height:.906667rem ; margin: .933333rem  0;">
+                <img src="./img/official/official5.png" alt="" style="width: 8.133333rem;">
+                <img src="./img/official/official6.png" alt=""
+                    style="width:5.546667rem; height:.906667rem ; margin: .933333rem 0;">
+                <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+                    <img src="./img/official/official7.png" alt="" style="width:7.693333rem ;">
+                </a>
+                <img src="./img/official/official8.png" alt=""
+                    style="width:3.973333rem ; height:.906667rem; margin:.64rem;">
+                <img src="./img/official/official9.png" alt="">
+            </div>
+            <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+                <img src="./img/official/official10.png" alt=""
+                    style="width: 8.906667rem; height: 1.066667rem; margin: .453333rem auto;">
+            </a>
+        </div>
+    </div>
+    <script src="../config/body_modules.js"></script>
+    <script src="../js/index.js"></script>
+</body>
+
+</html>

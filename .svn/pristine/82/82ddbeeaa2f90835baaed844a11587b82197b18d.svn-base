@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="renderer" content="webkit|ie-comp|ie-stand" /> -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>甲由科技-APP</title>
+    <link rel="canonical" href="www.gz-jiayou.com">
+    <link rel="stylesheet" href="./css/app/app.css">
+    <script src="../config/head_modules.js"></script>
+    <script language="javascript" src="https://dut.zoosnet.net/JS/LsJS.aspx?siteid=DUT85908063&float=1&lng=cn"></script>
+</head>
+
+<body>
+    <div class="app">
+        <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+            <img src="./img/app/app1.png" alt="" srcset="">
+        </a>
+        <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+            <img src="./img/app/app2.png" alt="" srcset="" style="width:8.453333rem;height:1.093333rem;">
+        </a>
+        <img src="./img/app/app3.png" alt="" srcset="" style="width: 6.106667rem;height:1.946667rem; margin:.6rem 0;">
+        <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+            <img src="./img/app/app4.png" alt="" srcset="" style="width: 9.466667rem;">
+        </a>
+        <img src="./img/app/app5.png" alt="" srcset="" style="width: 6.106667rem;height:1.946667rem; margin:.6rem 0;">
+        <img src="./img/app/app6.png" alt="" srcset="">
+        <img src="./img/app/app7.png" alt="" srcset="" style="width: 6.106667rem;height:1.946667rem; margin:.6rem 0;">
+        <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+            <img src="./img/app/app8.png" alt="" srcset="">
+        </a>
+        <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+            <img src="./img/app/app9.png" alt="" srcset="">
+        </a>
+        <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+            <img src="./img/app/app10.png" alt="" srcset="">
+        </a>
+        <img src="./img/app/app11.png" alt="" srcset="" style="width: 6.106667rem;height:1.946667rem; margin:.6rem 0;">
+        <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+            <img src="./img/app/app12.png" alt="" srcset="">
+        </a>
+        <img src="./img/app/app13.png" alt="" srcset="" style="width: 6.106667rem;height:1.946667rem; margin:.6rem 0;">
+        <img src="./img/app/app14.png" alt="" srcset="">
+        <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+            <img src="./img/app/app15.png" alt="" srcset=""
+                style="width: 8.453333rem; height: 1.093333rem; margin: .666667rem 0;">
+        </a>
+    </div>
+    <script src="../config/body_modules.js"></script>
+    <script src="../js/index.js"></script>
+</body>
+
+</html>

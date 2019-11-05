@@ -1,0 +1,9 @@
+.software {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.software img {
+  width: 100%;
+}

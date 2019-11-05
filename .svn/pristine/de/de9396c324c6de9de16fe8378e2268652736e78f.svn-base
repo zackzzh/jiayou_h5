@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="renderer" content="webkit|ie-comp|ie-stand" /> -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>甲由科技-首页-落地页</title>
+    <link rel="canonical" href="www.gz-jiayou.com">
+    <link rel="stylesheet" href="./css/index/index.css">
+
+    <script src="./config/head_modules.js"></script>
+</head>
+
+<body>
+    <div class="website_landing_main_div">
+        <div class="website_landing_head_div">
+            <img class="website_landing_head_img" src="./img/index/head.png" alt="">
+        </div>
+        <div class="website_landing_title">甲由科技公司的优势</div>
+        <div class="website_landing_subtitle">Jiayou technology company's advantages</div>
+        <div class="index_adv_div">
+            <img class="index_adv_img" src="./img/index/index_adv.png" alt="index_adv.png">
+        </div>
+        <div class="website_landing_title">热门服务</div>
+        <div class="website_landing_subtitle">Popular services</div>
+        <div class="app_landing_advantage_div">
+            <div class="app_landing_advantage" onclick="$go('app')">
+                <img src="./img/index/advantage01.png" alt="">
+            </div>
+            <div class="app_landing_advantage" onclick="$go('website')">
+                <img src="./img/index/advantage02.png" alt="">
+            </div>
+            <div class="app_landing_advantage" onclick="$go('applet')">
+                <img src="./img/index/advantage03.png" alt="">
+            </div>
+        </div>
+        <div class="website_landing_title">甲由精品案例</div>
+        <div class="website_landing_subtitle">Classic case</div>
+        <div class="website_landing_field_div">
+            <div class="wbsite_landing_field">
+                <img class="wbsite_landing_field_img" src="./img/index/field01.png" alt="">
+            </div>
+            <div class="wbsite_landing_field">
+                <img class="wbsite_landing_field_img" src="./img/index/field02.png" alt="">
+                <!-- <div class="wbsite_landing_field_title">营销推广型网站</div> -->
+            </div>
+            <div class="wbsite_landing_field">
+                <img class="wbsite_landing_field_img" src="./img/index/field03.png" alt="">
+            </div>
+            <div class="wbsite_landing_field">
+                <img class="wbsite_landing_field_img" src="./img/index/field04.png" alt="">
+            </div>
+        </div>
+        <div class="website_landing_title">甲由科技服务流程</div>
+        <div class="website_landing_subtitle">Jiayou technology service process</div>
+        <div class="website_landing_flow_div">
+            <img class="website_landing_flow_img" src="./img/website/flow.png" alt="">
+        </div>
+        <div class="website_landing_form_main_div">
+            <div class="website_landing_form_title">6大分公司 5000+精英为您便捷服务</div>
+            <div class="website_landing_form_title">想要赚钱，赶快留言</div>
+            <div class="website_landing_form_div">
+                <!-- <form> -->
+                <input class="website_landing_form_input website_landing_form_half" type="text" placeholder="请输入联系人姓名"
+                    onchange="changeName(value)" />
+                <input class="website_landing_form_input website_landing_form_half" type="text" placeholder="请输入联系电话"
+                    onchange="changePhone(value)" />
+                <textarea class="website_landing_form_input website_landing_form_all" rows="4" placeholder="请输入您的开发需求"
+                    onchange="changeArea(value)"></textarea>
+                <button type="button" class="btn btn-default website_landing_form_submit"
+                    onclick="handerClick()">立即提交</button>
+                <!-- </form> -->
+            </div>
+        </div>
+    </div>
+    <script src="./config/body_modules.js"></script>
+    <script src="./js/index.js"></script>
+</body>
+
+</html>

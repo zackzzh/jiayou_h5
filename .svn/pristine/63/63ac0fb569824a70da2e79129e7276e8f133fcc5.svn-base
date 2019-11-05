@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="renderer" content="webkit|ie-comp|ie-stand" /> -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>甲由科技-网站建设</title>
+    <link rel="canonical" href="www.gz-jiayou.com">
+    <link rel="stylesheet" href="./css/website/website.css">
+
+    <script src="./config/head_modules.js"></script>
+    <script language="javascript" src="https://dut.zoosnet.net/JS/LsJS.aspx?siteid=DUT85908063&float=1&lng=cn"></script>
+</head>
+
+<body>
+    <div class="website_landing_main_div">
+        <div class="website_landing_head_div">
+            <img class="website_landing_head_img" src="./img/website/head.png" alt="">
+        </div>
+        <div class="website_landing_title">搭建网站，您需要解决这些难题</div>
+        <div class="website_landing_subtitle">To build a website, you need to solve these problems</div>
+        <div class="website_landing_set_website_div">
+            <img class="website_landing_set_website_img" src="./img/website/set_website.png" alt="">
+            <div class="website_landing_set_website_right_div">
+                <div class="website_landing_set_website_right_title">1.公司实力如何像公众展现？</div>
+                <div class="website_landing_set_website_right_title">2.公司产品优势如何让更多人知道？</div>
+                <div class="website_landing_set_website_right_title">3.网站访问转化率如何提升？</div>
+                <a class="website_landing_set_website_right_btn"
+                    href="https://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=baidu"
+                    target="_blank">免费邀约技术上门洽谈</a>
+            </div>
+        </div>
+        <div class="website_landing_title">甲由网站建设 服务领域</div>
+        <div class="website_landing_subtitle">PC网站、移动网站、微站三合一</div>
+        <div class="website_landing_field_div">
+            <div class="wbsite_landing_field">
+                <img class="wbsite_landing_field_img" src="./img/website/field01.png" alt="">
+                <!-- <div class="wbsite_landing_field_title">品牌展示型网站</div> -->
+            </div>
+            <div class="wbsite_landing_field">
+                <img class="wbsite_landing_field_img" src="./img/website/field02.png" alt="">
+                <!-- <div class="wbsite_landing_field_title">营销推广型网站</div> -->
+            </div>
+            <div class="wbsite_landing_field">
+                <img class="wbsite_landing_field_img" src="./img/website/field03.png" alt="">
+                <!-- <div class="wbsite_landing_field_title">移动端网站建设</div> -->
+            </div>
+            <div class="wbsite_landing_field">
+                <img class="wbsite_landing_field_img" src="./img/website/field04.png" alt="">
+                <!-- <div class="wbsite_landing_field_title">商城网站建设</div> -->
+            </div>
+        </div>
+        <div class="wbsite_landing_input_div">
+            <div class="wbsite_landing_input">原创设计,一条龙网站建设
+                <a class="wbsite_landing_input_btn"
+                    href="https://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=baidu" target="_blank">
+                    立即咨询
+                </a>
+            </div>
+        </div>
+        <div class="website_landing_title">甲由建站服务体系</div>
+        <div class="website_landing_subtitle">PC网站、移动网站、微站三合一</div>
+        <div class="website_landing_system_main_div">
+            <div class="website_landing_system_div">
+                <div class="website_landing_system_img_div">
+                    <img class="website_landing_system_img" src="./img/website/system01.png" alt="">
+                    <div class="website_landing_system_title">专属规划</div>
+                </div>
+                <div class="website_landing_system_content">资深企划结合项目特点，研究模式，为整体网站建设实施提供强有力的基础保障</div>
+            </div>
+            <div class="website_landing_system_div">
+                <div class="website_landing_system_img_div">
+                    <img class="website_landing_system_img" src="./img/website/system02.png" alt="">
+                    <div class="website_landing_system_title">视觉设计</div>
+                </div>
+                <div class="website_landing_system_content">专业的网页设计团队，在审美与营销点之间取得平衡，推出视觉盛宴</div>
+            </div>
+            <div class="website_landing_system_div">
+                <div class="website_landing_system_img_div">
+                    <img class="website_landing_system_img" src="./img/website/system03.png" alt="">
+                    <div class="website_landing_system_title">品牌塑造</div>
+                </div>
+                <div class="website_landing_system_content">全面实效的数据分析，专业的网站制作策划和顾问团队，帮您建立品牌知名度，深度剖析SEO，进行强力有效推广</div>
+            </div>
+            <div class="website_landing_system_div">
+                <div class="website_landing_system_img_div">
+                    <img class="website_landing_system_img" src="./img/website/system04.png" alt="">
+                    <div class="website_landing_system_title">技术研发</div>
+                </div>
+                <div class="website_landing_system_content">11年累积，成熟技术，多项前言技术，创新网站制作团队，确保互联网及移动领域等全方位覆盖</div>
+            </div>
+            <div class="website_landing_system_div">
+                <div class="website_landing_system_img_div">
+                    <img class="website_landing_system_img" src="./img/website/system05.png" alt="">
+                    <div class="website_landing_system_title">易用性测试</div>
+                </div>
+                <div class="website_landing_system_content">做详细的市场分析、竞品分析，为您打造属于您的网页设计</div>
+            </div>
+            <div class="website_landing_system_div">
+                <div class="website_landing_system_img_div">
+                    <img class="website_landing_system_img" src="./img/website/system06.png" alt="">
+                    <div class="website_landing_system_title">质检后交付</div>
+                </div>
+                <div class="website_landing_system_content">网站开发运维团队，从硬件设备、网络监控、文件备份到安全防护进行全面检查，确保产品安全有效</div>
+            </div>
+        </div>
+        <div class="website_landing_title">甲由建站服务流程</div>
+        <div class="website_landing_subtitle">PC网站、移动网站、微站三合一</div>
+        <div class="website_landing_flow_div">
+            <img class="website_landing_flow_img" src="./img/website/flow.png" alt="">
+        </div>
+        <div class="wbsite_landing_input_div">
+            <div class="wbsite_landing_input">包满意设计,专业评估建站
+                <a class="wbsite_landing_input_btn"
+                    href="https://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=baidu" target="_blank">
+                    立即咨询
+                </a>
+            </div>
+        </div>
+        <div class="website_landing_form_main_div">
+            <div class="website_landing_form_title">6大分公司 5000+精英为您便捷服务</div>
+            <div class="website_landing_form_title">想要赚钱，赶快留言</div>
+            <div class="website_landing_form_div">
+                <!-- <form> -->
+                <input class="website_landing_form_input website_landing_form_half" type="text" placeholder="请输入联系人姓名"
+                    onchange="changeName(value)" />
+                <input class="website_landing_form_input website_landing_form_half" type="text" placeholder="请输入联系电话"
+                    onchange="changePhone(value)" />
+                <textarea class="website_landing_form_input website_landing_form_all" rows="4" placeholder="请输入您的开发需求"
+                    onchange="changeArea(value)"></textarea>
+                <button type="button" class="btn btn-default website_landing_form_submit"
+                    onclick="handerClick()">立即提交</button>
+                <!-- </form> -->
+            </div>
+        </div>
+    </div>
+    <script src="./config/body_modules.js"></script>
+    <script src="./js/index.js"></script>
+</body>
+
+</html>

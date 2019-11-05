@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="renderer" content="webkit|ie-comp|ie-stand" /> -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>甲由科技-网站建设</title>
+    <link rel="canonical" href="www.gz-jiayou.com">
+    <link rel="stylesheet" href="./css/website/website.css">
+    <script src="../config/head_modules.js"></script>
+    <script language="javascript" src="https://dut.zoosnet.net/JS/LsJS.aspx?siteid=DUT85908063&float=1&lng=cn"></script>
+</head>
+
+<body>
+    <div class="website">
+        <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+            <img src="./img/website/website1.png" alt="">
+        </a>
+
+
+        <img src="./img/website/website2.png" alt="" style="width:5.066667rem; height:1.2rem; margin:.533333rem 0;">
+        <img src="./img/website/website3.png" alt="" style="width:9.04rem; margin-bottom: 15px;">
+        <img src="./img/website/website4.png" alt="">
+        <img src="./img/website/website5.png" alt="" style="width:5.066667rem; height:1.2rem; margin:.533333rem 0;">
+        <img src="./img/website/website6.png" alt="" style="width:9.4rem;">
+        <img src="./img/website/website7.png" alt="" style="width:5.066667rem; height:1.2rem; margin:.533333rem 0;">
+        <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+            <img src="./img/website/website8.png" alt="">
+        </a>
+        <img src="./img/website/website9.png" alt="" style="width:9.693333rem;">
+        <a href="http://dut.zoosnet.net/LR/Chatpre.aspx?id=DUT85908063&lng=cn&e=tidu">
+            <img src="./img/website/website10.png" alt="" style="width:9.693333rem; margin: .266667rem 0;">
+        </a>
+    </div>
+    <script src="../config/body_modules.js"></script>
+    <script src="../js/index.js"></script>
+</body>
+
+</html>
